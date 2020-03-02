@@ -1,7 +1,6 @@
 {
   "name": "typescript-fun",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0"
-  }
+    "axios": "^0.19.0",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TudorTacal/typescript-fun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TudorTacal/typescript-fun/issues"
+  },
+  "homepage": "https://github.com/TudorTacal/typescript-fun#readme",
+  "description": ""
 }
